@@ -70,7 +70,7 @@ Run the app locally:
 
 streamlit run pro.py
 
-Sample Use-Cases
+##Sample Use-Cases
 Educators: Demonstrate ML algorithms in real-time to students.
 Beginners: Practice model training and evaluation with your own datasets.
 Analysts: Get quick insights from data with visualization and automated ML.
