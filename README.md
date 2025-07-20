@@ -65,9 +65,7 @@ git clone https://github.com/Preethingaraja/ds-hymo.git
 cd ds-hymo
 pip install -r requirements.txt
 
-
 Run the app locally:
-
 streamlit run pro.py
 
 ##Sample Use-Cases
@@ -75,9 +73,9 @@ Educators: Demonstrate ML algorithms in real-time to students.
 Beginners: Practice model training and evaluation with your own datasets.
 Analysts: Get quick insights from data with visualization and automated ML.
 
-License
+##License
 This project is open-source and available under the MIT License.
 
-Acknowledgements
+##Acknowledgements
 Developed by Preethinga Raja as part of hybrid ML application deployment learning initiative.
 
